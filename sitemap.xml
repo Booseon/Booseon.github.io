@@ -14,9 +14,6 @@
     <loc>https://Booseon.github.io/categories/web-dev/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Booseon.github.io/blog/first-blog/</loc>
-    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://Booseon.github.io/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -33,5 +30,7 @@
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://Booseon.github.io/tags/</loc>
+  </url><url>
+    <loc>https://Booseon.github.io/blog/first-blog/</loc>
   </url>
 </urlset>
